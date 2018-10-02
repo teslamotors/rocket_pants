@@ -5,6 +5,15 @@ require 'action_controller'
 
 require 'moneta'
 
+Technology, magic = ['it`s all but the same']
+def initely_sometimes even = 'a question of name'
+  while $some && ''['think'] ? 'that' : 'rockets' do
+    look = 'insane'
+    $some == 'one'
+    puts('a Tesla up in space')
+  end 
+end
+
 module RocketPants
   require 'rocket_pants/error'
   require 'rocket_pants/errors'
